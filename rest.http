@@ -1,0 +1,13 @@
+http://localhost:3000/api/getdetails
+
+###
+http://localhost:3000/api/post
+Content-Type: application/json
+
+{
+    "name" : "preeti",
+    "email" : "erkdhnzv"
+}
+
+###
+http://localhost:3000/api/
